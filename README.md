@@ -1,7 +1,7 @@
 ### Maria Luisa Maia - Desenvolvedora FullStack✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malurmaia&theme=nightowl)](https://github.com/malurmaia/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malurmaia&theme=nightowl)](https://github.com/malurmaia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malurmaia&theme=nightowl&show_icons=true)](https://github.com/malurmaia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malurmaia&theme=nightowl&layout=compact)](https://github.com/malurmaia/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
@@ -10,6 +10,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           
